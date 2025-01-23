@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @madhavan-21
-- 👀 I’m interested in program learning...
-- 🌱 I’m currently learning MERN stack....
+- 👋 Hi, I’m madhavan
+- 👀 I’m interested in solve complex software problems
+- 🌱 I’m currently learning working as a software engineer at atatus(namlabs).
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me INSTA @_MADHAVAN_21
 
